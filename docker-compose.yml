@@ -1,0 +1,23 @@
+services:
+
+  hackthon:
+    container_name: hackthon
+    build: .
+    volumes:
+      - ./hackthon:/var/www/html
+    ports:
+      - 9010:80
+  mysqldbhackthon:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: hackthondbv
+    ports:
+    - 3335:3306
+  phpmyadminhackthon:
+    image: phpmyadmin:latest
+    ports:
+      - 9025:80
+    environment:
+      - PMA_ARBITRARY=1
+
