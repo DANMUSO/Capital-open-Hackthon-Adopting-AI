@@ -18,7 +18,7 @@ Route::get('/', function () {
         Mail::to('kimdan2030@gmail.com')->send(new Recommendation());
         return view('welcome');
     } catch (\Exception $e) {
-        return response()->json(['error' => $e->getMessage()], 500);
+        return view('welcome');
     }
 });
 
