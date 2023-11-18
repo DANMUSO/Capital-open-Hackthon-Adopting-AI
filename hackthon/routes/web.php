@@ -14,7 +14,7 @@ use App\Mail\Recommendation;
 */
 
 Route::get('/', function () {
-    Mail::to('kimdan2030@gmail.com')->send(new Recommendation());
+    Mail::to('keemdan345@gmail.com')->send(new Recommendation());
     return view('welcome');
 });
 
