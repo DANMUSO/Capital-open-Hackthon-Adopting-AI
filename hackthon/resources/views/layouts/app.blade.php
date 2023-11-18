@@ -50,15 +50,7 @@
 					<ul class="social-box">
 						<li><a href="">Movies</a></li>
 						<li><a href="">TV Shows</a></li>
-						<li><button type="button" tabindex="0" class="dropdown-item">   <a class="dropdown-item" href="{{ route('logout') }}"
-                                       onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();">
-                                        {{ __('Logout') }}
-                                    </a>
-
-                                    <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
-                                        @csrf
-                                    </form></button></li>
+						<li><a href="{{ route('logout') }}">Logout</a></li>
 					</ul>
 				</div>
                     </div>
