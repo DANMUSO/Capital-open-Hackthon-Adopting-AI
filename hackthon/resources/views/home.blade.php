@@ -246,7 +246,7 @@
 						<h2 style="color:#fff">Trending Movies</h2>
 					</div>
 				</div>
-				<hr style="color:#fff">
+				<br>
 				<!-- Feature Block -->
 				<div class="feature-block">
 					<div class="inner-box">
