@@ -38,8 +38,8 @@
                     <div class="col-md-4">
                     <div class="pull-left">
 					<ul class="info">
-						<li><a href="tel:+254703894372"><span class="icon flaticon-phone"></span>Call: +254703894372</a></li>
-						<li><a href="https://qloudpointsolutions.com/"><span class="icon flaticon-email-2"></span>Info@v1.com</a></li>
+						<li><a href="tel:+254703894372"><span class="icon flaticon-phone"></span> +254703894372</a></li>
+						<li><a href="https://qloudpointsolutions.com/"><span class="icon flaticon-email-2"></span>Info@nexttop.com</a></li>
 					</ul>
 				</div>
                     </div>
@@ -112,8 +112,8 @@
 					</li>
 					<li>
 						<span class="icon"><img src="{{ asset('v1/images/icons/icon-2.png')}}" alt=""></span>
-						<a href="mailto:info@v1.com">info@v1.com</a><br>
-						<a href="www.qloudpointsolitions.com">www.v1.com</a>
+						<a href="mailto:info@nexttop.com">info@nexttop.com</a><br>
+						<a href="www.qloudpointsolitions.com">www.nexttop.com</a>
 					</li>
 					<li>
 						<span class="icon"><img src="{{ asset('v1/images/icons/icon-3.png')}}" alt=""></span>

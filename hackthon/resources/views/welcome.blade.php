@@ -146,7 +146,7 @@
 				<div class="clearfix">
 					<div class="pull-left">
 						<div class="title">Now Showing</div>
-						<h2>Featured showing</h2>
+						<h2>Featured Movies</h2>
 					</div>
 					<div class="pull-right">
 						<div class="button-box">
@@ -164,18 +164,147 @@
 					<div class="inner-box">
 						<div class="image">
 							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-							<img src="{{ asset('nexttop/images/resource/feature-1.jpg')}}" alt="">
+							<img src="{{ asset('v1/images/thegodfather.jpg')}}" alt="" style="height:310px">
 							<div class="overlay-box">
 								<ul class="post-meta">
-									<li><span class="icon fa fa-star"></span>5.7</li>
-									<li><span class="icon fa fa-comment"></span>25</li>
+									<li><span class="icon fa fa-star"></span>4.5</li>
+									<li><span class="icon fa fa-comment"></span>1020</li>
 								</ul>
 							</div>
 						</div>
 						<div class="lower-content">
 							<div class="clearfix">
 								<div class="pull-left">
-									<h6><a href="movie.html">Robin Hood</a></h6>
+									<h6><a href="movie.html">The Godfather</a></h6>
+								</div>
+								<div class="pull-right">
+									<div class="year">1972</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Feature Block -->
+				<div class="feature-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
+							<img src="{{ asset('v1/images/starwarmovie.jpg')}}" alt="" style="height:100%">
+							<div class="overlay-box">
+								<ul class="post-meta">
+									<li><span class="icon fa fa-star"></span>4.45</li>
+									<li><span class="icon fa fa-comment"></span>1010</li>
+								</ul>
+							</div>
+						</div>
+						<div class="lower-content">
+							<div class="clearfix">
+								<div class="pull-left">
+									<h6><a href="movie.html">Star Wars</a></h6>
+								</div>
+								<div class="pull-right">
+									<div class="year">1972</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Feature Block -->
+				<div class="feature-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
+							<img src="{{ asset('v1/images/titanicmovie.jpg')}}" style="height:100%" alt="">
+							<div class="overlay-box">
+								<ul class="post-meta">
+									<li><span class="icon fa fa-star"></span>4.4</li>
+									<li><span class="icon fa fa-comment"></span>1000</li>
+								</ul>
+							</div>
+						</div>
+						<div class="lower-content">
+							<div class="clearfix">
+								<div class="pull-left">
+									<h6><a href="movie.html">Titanic</a></h6>
+								</div>
+								<div class="pull-right">
+									<div class="year">1997</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Feature Block -->
+				<div class="feature-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
+							<img src="{{ asset('v1/images/forrestgumpmovie.jpg')}}" alt="">
+							<div class="overlay-box">
+								<ul class="post-meta">
+									<li><span class="icon fa fa-star"></span>3.9</li>
+									<li><span class="icon fa fa-comment"></span>999</li>
+								</ul>
+							</div>
+						</div>
+						<div class="lower-content">
+							<div class="clearfix">
+								<div class="pull-left">
+									<h6><a href="movie.html">Forrest Gump</a></h6>
+								</div>
+								<div class="pull-right">
+									<div class="year">1994</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Feature Block -->
+				<div class="feature-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
+							<img src="{{ asset('v1/images/pulpfiction.jpg')}}" alt="">
+							<div class="overlay-box">
+								<ul class="post-meta">
+									<li><span class="icon fa fa-star"></span>3.6</li>
+									<li><span class="icon fa fa-comment"></span>930</li>
+								</ul>
+							</div>
+						</div>
+						<div class="lower-content">
+							<div class="clearfix">
+								<div class="pull-left">
+									<h6><a href="movie.html">Pulp Fiction</a></h6>
+								</div>
+								<div class="pull-right">
+									<div class="year">1994</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Feature Block -->
+				<div class="feature-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
+							<img src="{{ asset('v1/images/inceptionmovie.jpg')}}" alt="">
+							<div class="overlay-box">
+								<ul class="post-meta">
+									<li><span class="icon fa fa-star"></span>3.1</li>
+									<li><span class="icon fa fa-comment"></span>700</li>
+								</ul>
+							</div>
+						</div>
+						<div class="lower-content">
+							<div class="clearfix">
+								<div class="pull-left">
+									<h6><a href="movie.html">Inception</a></h6>
 								</div>
 								<div class="pull-right">
 									<div class="year">2010</div>
@@ -190,88 +319,10 @@
 					<div class="inner-box">
 						<div class="image">
 							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-							<img src="{{ asset('nexttop/images/resource/feature-2.jpg')}}" alt="">
+							<img src="{{ asset('nexttop/images/resource/feature-5.jpg')}}" style="height:310px" alt="">
 							<div class="overlay-box">
 								<ul class="post-meta">
-									<li><span class="icon fa fa-star"></span>5.7</li>
-									<li><span class="icon fa fa-comment"></span>25</li>
-								</ul>
-							</div>
-						</div>
-						<div class="lower-content">
-							<div class="clearfix">
-								<div class="pull-left">
-									<h6><a href="movie.html">Bad Boys Life</a></h6>
-								</div>
-								<div class="pull-right">
-									<div class="year">2012</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Feature Block -->
-				<div class="feature-block">
-					<div class="inner-box">
-						<div class="image">
-							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-							<img src="{{ asset('nexttop/images/resource/feature-3.jpg')}}" alt="">
-							<div class="overlay-box">
-								<ul class="post-meta">
-									<li><span class="icon fa fa-star"></span>5.7</li>
-									<li><span class="icon fa fa-comment"></span>25</li>
-								</ul>
-							</div>
-						</div>
-						<div class="lower-content">
-							<div class="clearfix">
-								<div class="pull-left">
-									<h6><a href="movie.html">Hot Dolitle</a></h6>
-								</div>
-								<div class="pull-right">
-									<div class="year">2014</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Feature Block -->
-				<div class="feature-block">
-					<div class="inner-box">
-						<div class="image">
-							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-							<img src="{{ asset('nexttop/images/resource/feature-4.jpg')}}" alt="">
-							<div class="overlay-box">
-								<ul class="post-meta">
-									<li><span class="icon fa fa-star"></span>5.7</li>
-									<li><span class="icon fa fa-comment"></span>25</li>
-								</ul>
-							</div>
-						</div>
-						<div class="lower-content">
-							<div class="clearfix">
-								<div class="pull-left">
-									<h6><a href="movie.html">Invisible Man</a></h6>
-								</div>
-								<div class="pull-right">
-									<div class="year">2016</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Feature Block -->
-				<div class="feature-block">
-					<div class="inner-box">
-						<div class="image">
-							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-							<img src="{{ asset('nexttop/images/resource/feature-5.jpg')}}" alt="">
-							<div class="overlay-box">
-								<ul class="post-meta">
-									<li><span class="icon fa fa-star"></span>5.7</li>
+									<li><span class="icon fa fa-star"></span>2.7</li>
 									<li><span class="icon fa fa-comment"></span>25</li>
 								</ul>
 							</div>
@@ -297,7 +348,7 @@
 							<img src="{{ asset('nexttop/images/resource/feature-6.jpg')}}" alt="">
 							<div class="overlay-box">
 								<ul class="post-meta">
-									<li><span class="icon fa fa-star"></span>5.7</li>
+									<li><span class="icon fa fa-star"></span>2.7</li>
 									<li><span class="icon fa fa-comment"></span>25</li>
 								</ul>
 							</div>
@@ -323,7 +374,7 @@
 							<img src="{{ asset('nexttop/images/resource/feature-7.jpg')}}" alt="">
 							<div class="overlay-box">
 								<ul class="post-meta">
-									<li><span class="icon fa fa-star"></span>5.7</li>
+									<li><span class="icon fa fa-star"></span>2.5</li>
 									<li><span class="icon fa fa-comment"></span>25</li>
 								</ul>
 							</div>
@@ -349,7 +400,7 @@
 							<img src="{{ asset('nexttop/images/resource/feature-8.jpg')}}" alt="">
 							<div class="overlay-box">
 								<ul class="post-meta">
-									<li><span class="icon fa fa-star"></span>5.7</li>
+									<li><span class="icon fa fa-star"></span>2.2</li>
 									<li><span class="icon fa fa-comment"></span>25</li>
 								</ul>
 							</div>
@@ -367,57 +418,6 @@
 					</div>
 				</div>
 				
-				<!-- Feature Block -->
-				<div class="feature-block">
-					<div class="inner-box">
-						<div class="image">
-							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-							<img src="{{ asset('nexttop/images/resource/feature-9.jpg')}}" alt="">
-							<div class="overlay-box">
-								<ul class="post-meta">
-									<li><span class="icon fa fa-star"></span>5.7</li>
-									<li><span class="icon fa fa-comment"></span>25</li>
-								</ul>
-							</div>
-						</div>
-						<div class="lower-content">
-							<div class="clearfix">
-								<div class="pull-left">
-									<h6><a href="movie.html">The Turning</a></h6>
-								</div>
-								<div class="pull-right">
-									<div class="year">2022</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Feature Block -->
-				<div class="feature-block">
-					<div class="inner-box">
-						<div class="image">
-							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-							<img src="{{ asset('nexttop/images/resource/feature-10.jpg')}}" alt="">
-							<div class="overlay-box">
-								<ul class="post-meta">
-									<li><span class="icon fa fa-star"></span>5.7</li>
-									<li><span class="icon fa fa-comment"></span>25</li>
-								</ul>
-							</div>
-						</div>
-						<div class="lower-content">
-							<div class="clearfix">
-								<div class="pull-left">
-									<h6><a href="movie.html">Birds of Prey</a></h6>
-								</div>
-								<div class="pull-right">
-									<div class="year">2022</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
 				
 			</div>
 			
