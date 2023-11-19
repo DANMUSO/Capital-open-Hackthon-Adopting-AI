@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>v1 Platform</title>
+<title>NextTop Platform</title>
 <!-- Stylesheets -->
 <link href="{{ asset('v1/css/bootstrap.css')}}" rel="stylesheet">
 <link href="{{ asset('v1/css/style.css')}}" rel="stylesheet">
@@ -136,7 +136,7 @@
 		<!-- Footer Bottom -->
 		<div class="footer-bottom">
 			<div class="auto-container">
-				<div class="copyright">&copy; 2023 v1. All Rights Reserved. Designed By <a href="https://qloudpointsolutions.com/" target="_blank">Qloud Point Solutions Ltd</a></div>
+				<div class="copyright">&copy; 2023 NextTop. All Rights Reserved. Designed By <a href="https://qloudpointsolutions.com/" target="_blank">Qloud Point Solutions Ltd</a></div>
 			</div>
 		</div>
 	</footer>

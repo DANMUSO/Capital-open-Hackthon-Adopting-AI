@@ -278,6 +278,32 @@
 						<div class="lower-content">
 							<div class="clearfix">
 								<div class="pull-left">
+									<h6><a href="movie.html">The Matrix</a></h6>
+								</div>
+								<div class="pull-right">
+									<div class="year">1999</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Feature Block -->
+				<div class="feature-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
+							<img src="{{ asset('v1/images/thematrix.jpg')}}" alt="">
+							<div class="overlay-box">
+								<ul class="post-meta">
+									<li><span class="icon fa fa-star"></span>3.6</li>
+									<li><span class="icon fa fa-comment"></span>930</li>
+								</ul>
+							</div>
+						</div>
+						<div class="lower-content">
+							<div class="clearfix">
+								<div class="pull-left">
 									<h6><a href="movie.html">Pulp Fiction</a></h6>
 								</div>
 								<div class="pull-right">
@@ -392,31 +418,7 @@
 					</div>
 				</div>
 				
-				<!-- Feature Block -->
-				<div class="feature-block">
-					<div class="inner-box">
-						<div class="image">
-							<a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image video-box"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-							<img src="{{ asset('nexttop/images/resource/feature-8.jpg')}}" alt="">
-							<div class="overlay-box">
-								<ul class="post-meta">
-									<li><span class="icon fa fa-star"></span>2.2</li>
-									<li><span class="icon fa fa-comment"></span>25</li>
-								</ul>
-							</div>
-						</div>
-						<div class="lower-content">
-							<div class="clearfix">
-								<div class="pull-left">
-									<h6><a href="movie.html">Underwater</a></h6>
-								</div>
-								<div class="pull-right">
-									<div class="year">2022</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+			
 				
 				
 			</div>
