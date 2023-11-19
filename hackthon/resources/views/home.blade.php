@@ -563,7 +563,7 @@
 				<div class="clearfix">
 					<div class="pull-left">
 						<div class="title">Now Showing</div>
-						<h2>Featured Movies</h2>
+						<h2>Top Movies Based on Your Personal Taste</h2>
 					</div>
 					<div class="pull-right">
 						<div class="button-box">
