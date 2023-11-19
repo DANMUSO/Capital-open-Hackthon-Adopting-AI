@@ -48,60 +48,6 @@
 	</div>
 	<!-- END sidebar widget item -->
 	
-	<!-- Main Section -->
-    <section class="main-slider">
-		
-		<div class="main-slider-carousel owl-carousel owl-theme">
-            
-            <div class="slide" style="background-image: url({{ asset('nexttop/images/main-slider/v1.jpg')}})">
-				<div class="pattern-layer" style="background-image: url({{ asset('nexttop/images/main-slider/pattern-layer.png')}})"></div>
-				<!-- <div class="color-layer-one"></div>
-				<div class="color-layer-two"></div>
-				<div class="color-layer-three"></div> -->
-				<div class="auto-container">
-					
-					<!-- Content Boxed -->
-					<div class="content-boxed">
-						<div class="inner-box">
-							<div class="title">NextTop Internet & TV</div>
-							<h1>Ultimate control of your internet</h1>
-							<div class="btns-box">
-								<a href="about.html" class="theme-btn btn-style-two"><span class="txt">Read More <i class="lnr lnr-arrow-right"></i></span></a>
-								<a href="contact.html" class="theme-btn btn-style-three"><span class="txt">Contact Now <i class="lnr lnr-arrow-right"></i></span></a>
-							</div>
-						</div>
-					</div>
-					
-				</div>
-			</div>
-			
-			<div class="slide" style="background-image: url({{ asset('nexttop/images/main-slider/v9.jpg')}})">
-				<div class="pattern-layer" style="background-image: url({{ asset('nexttop/images/main-slider/pattern-layer.png')}})"></div>
-				<!-- <div class="color-layer-one"></div>
-				<div class="color-layer-two"></div>
-				<div class="color-layer-three"></div> -->
-				<div class="auto-container">
-					
-					<!-- Content Boxed -->
-					<div class="content-boxed">
-						<div class="inner-box">
-							<div class="title">NextTop Internet & TV</div>
-							<h1>Ultimate control of your internet</h1>
-							<div class="btns-box">
-								<a href="about.html" class="theme-btn btn-style-two"><span class="txt">Read More <i class="lnr lnr-arrow-right"></i></span></a>
-								<a href="contact.html" class="theme-btn btn-style-three"><span class="txt">Contact Now <i class="lnr lnr-arrow-right"></i></span></a>
-							</div>
-						</div>
-					</div>
-					
-				</div>
-			</div>
-            
-			
-		</div>
-		
-	</section>
-	<!-- End Main Section -->
 	
 				
 			@if( auth()->user()-> id ==  3 )
