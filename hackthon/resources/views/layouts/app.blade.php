@@ -35,7 +35,7 @@
 		<div class="header-top">
 			<div class="auto-container clearfix">
 				<div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-5">
                     <div class="pull-left">
 					<ul class="info">
 						<li><a href="tel:+254703894372"><span class="icon flaticon-phone"></span> +254703894372</a></li>
@@ -50,11 +50,21 @@
 					<ul class="social-box">
 						<li><a href="">Movies</a></li>
 						<li><a href="">TV Shows</a></li>
-						<li><a href="{{ route('logout') }}">Logout</a></li>
+						<li>
+						<a class="dropdown-item" href="{{ route('logout') }}"
+                                       onclick="event.preventDefault();
+                                                     document.getElementById('logout-form').submit();">
+                                       <i class="bi bi-box-arrow-right"></i> {{ __('Logout') }}
+                                    </a>
+
+                                    <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                                        @csrf
+                                    </form>
+					</li>
 					</ul>
 				</div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
 
                     <div class="pull-right clearfix">
 					<!-- Social Box -->
@@ -101,9 +111,6 @@
 		<div class="pattern-layer-two" style="background-image: url({{ asset('v1/images/background/pattern-13.png')}}})"></div>
     	<div class="auto-container">
             <div class="widgets-section">
-            	<div class="logo">
-					<a href="index.html"><img src="{{ asset('v1/images/footer-logo.png')}}" alt=""></a>
-				</div>
 				<ul class="contact-info-list">
 					<li>
 						<span class="icon"><img src="{{ asset('v1/images/icons/icon-1.png')}}" alt=""></span>

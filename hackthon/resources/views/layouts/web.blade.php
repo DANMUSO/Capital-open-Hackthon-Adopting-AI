@@ -102,9 +102,7 @@
 		<div class="pattern-layer-two" style="background-image: url({{ asset('v1/images/background/pattern-13.png')}}})"></div>
     	<div class="auto-container">
             <div class="widgets-section">
-            	<div class="logo">
-					<a href="index.html"><img src="{{ asset('v1/images/footer-logo.png')}}" alt=""></a>
-				</div>
+            	
 				<ul class="contact-info-list">
 					<li>
 						<span class="icon"><img src="{{ asset('v1/images/icons/icon-1.png')}}" alt=""></span>
