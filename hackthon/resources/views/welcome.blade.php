@@ -121,7 +121,7 @@
 						<div class="appointment-form">
 							<form method="post" action="contact.html">
 								<div class="form-group">
-									<input class="control-form" type="name" name="name" value="" placeholder="name" required="">
+									<input class="form-control" type="name" name="name" value="" placeholder="name" required="">
 									<button type="submit" class="theme-btn btn-style-two"><span class="txt">Subscribe<i class="lnr lnr-arrow-right"></i></span></button>
 								</div>
 							</form>
