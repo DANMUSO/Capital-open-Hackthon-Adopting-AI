@@ -121,7 +121,7 @@
 						<div class="appointment-form">
 							<form method="post" action="contact.html">
 								<div class="form-group">
-									<input type="email" name="email" value="" placeholder="Enter street address & apartment" required="">
+									<input type="name" name="name" value="" placeholder="name" required="">
 									<button type="submit" class="theme-btn btn-style-two"><span class="txt">Subscribe<i class="lnr lnr-arrow-right"></i></span></button>
 								</div>
 							</form>
