@@ -111,7 +111,7 @@
 				<!-- Title Column -->
 				<div class="title-column col-lg-6 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<h3>Let's find deals and services available in your area</h3>
+						<h3>Subscribe in order to receive tailored movie suggestions</h3>
 					</div>
 				</div>
 				
@@ -122,7 +122,7 @@
 							<form method="post" action="contact.html">
 								<div class="form-group">
 									<input type="email" name="email" value="" placeholder="Enter street address & apartment" required="">
-									<button type="submit" class="theme-btn btn-style-two"><span class="txt">Check Availability <i class="lnr lnr-arrow-right"></i></span></button>
+									<button type="submit" class="theme-btn btn-style-two"><span class="txt">Subscribe<i class="lnr lnr-arrow-right"></i></span></button>
 								</div>
 							</form>
 						</div>
