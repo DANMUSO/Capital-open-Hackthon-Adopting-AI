@@ -20,6 +20,7 @@ To access the platform, please utilize the provided IP address and port.
 **http://34.206.53.230:9010/**
 
 **The appearance of the AI-powered movie Recommendation Solution Platform resembles what is displayed in the screenshot below.**
+
 ![AI-PLATFORM](https://github.com/DANMUSO/Capital-open-Hackthon-Adopting-AI/assets/23189762/d6c8bf3b-c9fc-44fd-b5ae-410a52e94d72)
 
 The image illustrates three distinct segments. The initial section exhibits a slideshow presenting movie images. The second section provides a command-line interface (CLI) or a space for users to input their names. Finally, the last section is designated for showcasing overall recommendations derived from the average ratings of movies.
