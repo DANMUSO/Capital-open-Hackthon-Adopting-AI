@@ -22,6 +22,12 @@ Route::get('/', function () {
     }
 });
 
+Route::get('/accessip', function () {
+    
+        return view('access');
+    
+});
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

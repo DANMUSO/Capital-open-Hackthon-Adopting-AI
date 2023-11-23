@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>NextTop Platform</title>
+<title>NextTop AI Platform</title>
 <!-- Stylesheets -->
 <link href="{{ asset('v1/css/bootstrap.css')}}" rel="stylesheet">
 <link href="{{ asset('v1/css/style.css')}}" rel="stylesheet">
@@ -39,7 +39,7 @@
                     <div class="pull-left">
 					<ul class="info">
 						<li><a href="tel:+254703894372"><span class="icon flaticon-phone"></span> +254703894372</a></li>
-						<li><a href="https://qloudpointsolutions.com/"><span class="icon flaticon-email-2"></span>Info@nexttop.com</a></li>
+						<li><a href="https://qloudpointsolutions.com/"><span class="icon flaticon-email-2"></span>Info@nexttopai.com</a></li>
 					</ul>
 				</div>
                     </div>
@@ -119,8 +119,8 @@
 					</li>
 					<li>
 						<span class="icon"><img src="{{ asset('v1/images/icons/icon-2.png')}}" alt=""></span>
-						<a href="mailto:info@nexttop.com">info@nexttop.com</a><br>
-						<a href="www.qloudpointsolitions.com">www.nexttop.com</a>
+						<a href="mailto:info@nexttop.com">info@nexttopai.com</a><br>
+						<a href="www.qloudpointsolitions.com">www.nexttoai.com</a>
 					</li>
 					<li>
 						<span class="icon"><img src="{{ asset('v1/images/icons/icon-3.png')}}" alt=""></span>
@@ -142,7 +142,7 @@
 		<!-- Footer Bottom -->
 		<div class="footer-bottom">
 			<div class="auto-container">
-				<div class="copyright">&copy; 2023 NextTop. All Rights Reserved. Designed By <a href="https://qloudpointsolutions.com/" target="_blank">Qloud Point Solutions Ltd</a></div>
+				<div class="copyright">&copy; 2023 NextTop AI. All Rights Reserved. Designed By <a href="https://qloudpointsolutions.com/" target="_blank">Qloud Point Solutions Ltd</a></div>
 			</div>
 		</div>
 	</footer>
